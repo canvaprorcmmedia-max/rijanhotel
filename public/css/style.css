@@ -109,10 +109,12 @@
      ================================= */
 
   .hero {
-    min-height: auto;
+    min-height: 620px;
     padding: 0;
-    background-position: center;
-  }
+    background-position: center center;
+    background-size: auto 100%;
+    background-color: #0F3D3A;
+}
 
   .hero-content {
     width: 100%;
